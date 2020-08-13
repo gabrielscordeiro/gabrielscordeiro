@@ -7,3 +7,5 @@ Front-End Developer at [@magazord-plataforma](https://github.com/magazord-plataf
 I'm a web developer in love about Javascript/TypeScript and the entire ecosystem surrounding this technology, focusing on ReactJS, React Native and NodeJS.
 
 I am currently a Front-End developer at Magazord, responsible for managing the Magazord Front-End team and developing the entire graphic part of the websites
+
+![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gabrielscordeiro&show_icons=true)
