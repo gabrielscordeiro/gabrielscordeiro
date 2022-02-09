@@ -23,7 +23,7 @@
  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
- ![Angular](https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+ ![Angular](https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=angular&logoColor=white)&nbsp; 
    
    <h3 align="center">Connect with me:</h3>
    
