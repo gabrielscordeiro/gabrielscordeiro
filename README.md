@@ -23,6 +23,14 @@
  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+ ![Angular](https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+   
+   <h3 align="center">Connect with me:</h3>
+   
+ [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Schmidt%20Cordeiro-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-schmidt-cordeiro-199262103/)](https://www.linkedin.com/in/gabriel-schmidt-cordeiro-199262103/) 
+[![Gmail Badge](https://img.shields.io/badge/-gabrielcordeiro.dev@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabrielcordeiro.dev@gmail.com)](mailto:gabrielcordeiro.dev@gmail.com) 
+[![Spotify Badge](https://img.shields.io/badge/gabrielcordeiro10-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/gabrielcordeiro10?si=BcboRFRpSsK6ouqj9Fz9zA)
+[![Instagram Badge](https://img.shields.io/badge/gabriel.s.cordeiro-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.s.cordeiro/)
+   
   
 </div>
