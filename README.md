@@ -3,7 +3,7 @@
 **About me**
 
 - 💼  Currently working as frontend developer<br />
-- ❤️  I'm currently studying React, Vue and Node.<br />
+- ❤️  I'm currently studying React, and Node.<br />
 - 👯  I try to collaborate with react projects<br />
 - 📫  How to reach me: [gabrielcordeiro.dev](https://gabrielcordeiro.dev/)<br /><br />
 
