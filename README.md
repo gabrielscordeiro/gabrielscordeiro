@@ -1,36 +1,19 @@
-<h1 >Gabriel Schmidt Cordeiro</h1><br />
+# 👋 Hi there
 
-**About me**
+I'm Gabriel Schmidt Cordeiro, a passionate software developer. I currently work as a Senior Software Developer at Magazord. </br>
+With over 10 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
-- 💼  Currently working as frontend developer<br />
-- ❤️  I'm currently studying React, Typescript, Tailwind and Node.<br />
-- 👯  I try to collaborate with react projects<br />
-- 📫  How to reach me: [gabrielcordeiro.dev](https://gabrielcordeiro.dev/)<br /><br />
 
-<div align='center'> 
-   <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielscordeiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>&nbsp;
-   <img width="49%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielscordeiro&layout=compact&langs_count=16&theme=radical"/>
-</div>
+# 🚀 Expertise
 
-<br />
-<div align='center'>
-  
- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
- ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
- ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
- ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
- ![Angular](https://img.shields.io/badge/Angular-100000?style=for-the-badge&logo=angular&logoColor=white)&nbsp; 
-   
-   <h3 align="center">Connect with me:</h3>
-   
- [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Schmidt%20Cordeiro-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-schmidt-cordeiro-199262103/)](https://www.linkedin.com/in/gabriel-schmidt-cordeiro-199262103/) 
-[![Gmail Badge](https://img.shields.io/badge/-gabrielcordeiro.dev@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gabrielcordeiro.dev@gmail.com)](mailto:gabrielcordeiro.dev@gmail.com) 
-[![Spotify Badge](https://img.shields.io/badge/gabrielcordeiro10-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/gabrielcordeiro10?si=BcboRFRpSsK6ouqj9Fz9zA)
-[![Instagram Badge](https://img.shields.io/badge/gabriel.s.cordeiro-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.s.cordeiro/)
-   
-  
-</div>
+Passionate about creating interactive and intuitive user experiences, I specialize in front-end web development, combining modern frameworks with best practice design patterns. With almost 10 years of experience, I have led teams, developed people and am focused on maintaining the highest performance in systems and SEO.
+
+In my professional journey, I've proudly served as a Front-end Technical Lead as well, a role where my technical expertise met the challenges of team management. Beyond crafting top-tier user interfaces, I embraced the responsibilities of leadership, guiding my team with strategic oversight, and ensuring projects were executed efficiently.
+
+In my free time, I like to play video games, study languages and new technologies. I'm passionate about cars, whenever possible I go to car events
+
+# 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black), ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+# 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/kibum.png](https://www.instagram.com/gabriel.s.cordeiro/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/laura-grassi](https://www.linkedin.com/in/gabriel-schmidt-cordeiro-199262103/)) 
