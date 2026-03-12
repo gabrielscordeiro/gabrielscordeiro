@@ -1,7 +1,7 @@
 # 👋 Hi there
 
-I'm Gabriel Schmidt Cordeiro, a passionate software developer. I currently work as a Senior Software Developer at Magazord. </br>
-With over 10 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
+I'm Gabriel Schmidt Cordeiro, a passionate software developer. I currently work as a Senior Software Engineer at Hostgator. </br>
+With over 12 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 
 # 🚀 Expertise
